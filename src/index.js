@@ -35,3 +35,4 @@ const getRightWord = (word) => {
 
 getRightWord("LOLA");
 getRightWord("FARY");
+
