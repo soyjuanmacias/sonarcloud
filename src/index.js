@@ -5,7 +5,7 @@
 const getPets = () => {
     const isVet = true;
 
-    if(isVet) {
+    if(isVet == true) {
         throw new Error("This error will never fire");
     } else {
         return {
