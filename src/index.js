@@ -30,6 +30,7 @@ const getRightWord = word => {
 	switch (word) {
 		case 'LOLA': return 'Lola Flores';
 		case 'FARY': return 'El Fary';
+		default: return 'Nada';
 	}
 };
 
